@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapa_elite_1.0</title>
+    <link rel="shortcut icon" href="img/android-chrome-512x512.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <strong>
+        <h2 class="titulo">chapa_elite_1.0</h2>
+    </strong>
+    <p id="paragrafo"><a href="">propostas</a> - <a href="">quem somos</a> - <a href="">redes sociais</a></p>
+    <hr>
+    <a href="p002.html"><img src="img/grêmio.jpg" alt="" class="imagem"></a>
+    <a href=""><img src="img/grêmio (1).jpg" alt="" class="imagem"></a>
+</body>
+</html>
